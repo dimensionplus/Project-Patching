@@ -30,8 +30,8 @@ The LoRA models trained through [kohya_ss](https://github.com/bmaltais/kohya_ss)
 
 
 ## How to train a new image model?
-訓練工具包：Link  
-Training Tool Kit：Link
+訓練工具包：[Link](https://drive.google.com/file/d/1GI1ajzyPDyT97EDQ_iU8iM3L8q3hPgJ9/view?usp=sharing)  
+Training Tool Kit：[Link](https://drive.google.com/file/d/1GI1ajzyPDyT97EDQ_iU8iM3L8q3hPgJ9/view?usp=sharing)  
 
 ## Credit
 
