@@ -21,10 +21,13 @@ Blood Sausage (Finland)
 
 ## Introduction
 本計畫希望透過各地區域共同參與來增強資料庫的多樣性和代表性，解決 AI 的偏見問題。包括收集和整合來自不同文化背景、不同地理位置和不同社會經濟群體的資料，訓練生成，以確保 AI 系統能夠理解並適應更廣泛的人類經驗。目前全球已有數個訓練據點，包含：台灣、香港、芬蘭、德國等。  
-這些模型怎麼使用（大規範）？  
+
+透過 [kohya_ss](https://github.com/bmaltais/kohya_ss) 訓練LoRA模型，模型可使用在 [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 、[ComfyUI](https://github.com/comfyanonymous/ComfyUI) 等開源軟體。模型訓練方式請參考下方的[訓練工具包](#how-to-train-a-new-image-model)，模型使用規範會補充在上方資料夾中。
+
 This project aims to enhance the diversity and representativeness of the database through regional collaboration to address AI bias. It involves collecting and integrating data from various cultural backgrounds, geographic locations, and socio-economic groups to train generative models, ensuring AI systems can better understand and adapt to a broader range of human experiences. Currently, there are several training sites worldwide, including Taiwan, Hong Kong, Finland, and Germany.
 
-這些模型怎麼使用（大規範）？英文
+The LoRA models trained through [kohya_ss](https://github.com/bmaltais/kohya_ss) can be used in open-source software like [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) and [ComfyUI](https://github.com/comfyanonymous/ComfyUI). For details on how to train the models, please refer to the [training toolkit](#how-to-train-a-new-image-model) below. The model usage guidelines will be added to the top-level folder.
+
 
 ## How to train a new image model?
 訓練工具包：Link  
