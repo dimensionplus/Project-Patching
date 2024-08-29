@@ -1,1 +1,0 @@
-model trained by [stable-diffusion-xl-base-1.0](stabilityai/stable-diffusion-xl-base-1.0)
