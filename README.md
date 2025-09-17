@@ -13,11 +13,15 @@ AI, as a powerful subjective tool, may suppress cultural diversity and the disco
 
 豬血糕（台灣）  
 血鬆餅（芬蘭）  
-血腸（芬蘭）  
+血腸（芬蘭） 
+雞蛋仔（香港） 
+卡那卡那富族（台灣） 
 
 Pig Blood Cake (Taiwan)  
 Blood Pancake (Finland)  
 Blood Sausage (Finland)  
+Egg waffle (Hong Kong)  
+Kanakanavu (Taiwan)  
 
 ## Introduction
 本計畫希望透過各地區域共同參與來增強資料庫的多樣性和代表性，解決 AI 的偏見問題。包括收集和整合來自不同文化背景、不同地理位置和不同社會經濟群體的資料，訓練生成，以確保 AI 系統能夠理解並適應更廣泛的人類經驗。目前全球已有數個訓練據點，包含：台灣、香港、芬蘭、德國等。  
