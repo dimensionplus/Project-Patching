@@ -13,9 +13,9 @@ AI, as a powerful subjective tool, may suppress cultural diversity and the disco
 
 豬血糕（台灣）  
 血鬆餅（芬蘭）  
-血腸（芬蘭） 
-雞蛋仔（香港） 
-卡那卡那富族（台灣） 
+血腸（芬蘭）  
+雞蛋仔（香港）  
+卡那卡那富族（台灣）  
 
 Pig Blood Cake (Taiwan)  
 Blood Pancake (Finland)  
