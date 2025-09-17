@@ -53,7 +53,7 @@ Creator: Dimension Plus
 Project Host: Escher Tsai  
 Producer: Szu Ya Wang  
 Technical Coordinator: Tzu Chen Lee   
-Technical Support: Seth Hon, Reviles Huang  
+Technical Support: Seth Hon, Revlis Huang  
 Production Team: Monique Chiang, Jessie Huang, Pingyi Chen, Zun Yu Tan  
 Visual Design: Milkxhake  
 Installation Production: Hozen Studio  
